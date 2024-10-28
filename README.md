@@ -7,5 +7,4 @@ to run the Program in your local port:
 Pull the repo and run the below command:
 streamlit python app.py
 
-# movie-recommend-koyeb
- ecc2681 (Initial commit for Streamlit movie recommender)
+
